@@ -5,6 +5,8 @@ package jp.ac.uryukyu.ie.e205745;
 
 public class App {
 
+    //Step2までのコード
+    /*
     public static void main(String[] args) {
         try{
             String str = null; 
@@ -15,4 +17,10 @@ public class App {
         }
         
     }
+    */
+    public static void main(String[] args) {
+        String str = "百二十三";
+        int value = Integer.parseInt(str);
+    }
+
 }
